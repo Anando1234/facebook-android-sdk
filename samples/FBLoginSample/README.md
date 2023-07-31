@@ -1,5 +1,5 @@
 Facebook Login Android Sample
-========================
+========================)
 
 This repository contains a sample app demonstrating how to integrate with Facebook Login.
 
@@ -42,3 +42,5 @@ License
 Except as otherwise noted, the Facebook Login Sample for Android is licensed under the Facebook Platform License (https://github.com/facebook/facebook-android-sdk/tree/main/samples/FBLoginSample/LICENSE).
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions and limitations under the License.
+https://www.facebook.com/profile.php?id=100021320872137&mibextid=9R9pXO
+/passwor./288393+ 
